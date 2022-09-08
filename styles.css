@@ -1,0 +1,16 @@
+
+h1 {
+    color: red;
+  }
+
+
+.text {
+    color: blue;
+    font-style: italic;
+}
+
+
+#elem {
+    background-image: url("img/bg.png");
+    border: 1px solid black;
+}
